@@ -1,4 +1,4 @@
-Running the REVISIION renderer requires [blenderproc](https://github.com/DLR-RM/BlenderProc)
+Running the REVISION renderer requires [blenderproc](https://github.com/DLR-RM/BlenderProc)
 
 Some sample object and background assets are already available.
 
