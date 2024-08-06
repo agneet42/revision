@@ -35,13 +35,14 @@ Please refer to the [REVISION](https://huggingface.co/revision-t2i) organization
 ## 📜 Citing
 
 ```bibtex
-@misc{TBD,
+@misc{chatterjee2024revisionrenderingtoolsenable,
       title={REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models}, 
       author={Agneet Chatterjee and Yiran Luo and Tejas Gokhale and Yezhou Yang and Chitta Baral},
       year={2024},
-      eprint={TBD},
+      eprint={2408.02231},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.02231}, 
 }
 ```
 
