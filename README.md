@@ -1,7 +1,7 @@
 ## REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models
 
 <p align="center">
-    📃 <a href="" target="_blank">Paper</a> |
+    📃 <a href="https://arxiv.org/abs/2408.02231/" target="_blank">Paper</a> |
     🎮 <a href="https://agneetchatterjee.com/revision/" target="_blank">Project Website</a>
 </p>
 
